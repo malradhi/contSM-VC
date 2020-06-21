@@ -1,2 +1,2 @@
-# Effects of Sinusoidal Model on Non-Parallel Voice Conversion with Adversarial Learning
+# GAN-VC
 voice conversion
